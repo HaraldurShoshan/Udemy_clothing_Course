@@ -1,0 +1,30 @@
+{
+	"workbench.startupEditor": "newUntitledFile",
+	"workbench.iconTheme": "vscode-icons",
+	"workbench.colorCustomizations": {
+		"activityBar.activeBackground": "#476eaa",
+		"editor.foldBackground": "#355000"
+	},
+	"javascript.validate.enable": true,
+	"editor.showUnused": true,
+	"prettier.singleQuote": true,
+	"workbench.tree.indent": 25,
+	"editor.matchBrackets": "never",
+	"workbench.editor.limit.enabled": true,
+	"workbench.editor.limit.value": 8,
+	"editor.fontLigatures": true,
+	"editor.fontWeight": "400", // Regular
+	"workbench.editor.highlightModifiedTabs": true,
+	"editor.cursorBlinking": "smooth",
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.mouseWheelZoom": true,
+	"terminal.integrated.fontSize": 10,
+	"terminal.integrated.cursorStyle": "line",
+	"editor.formatOnType": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.configPath": ".prettierrc",
+	"files.associations": {
+		"*.jsx": "javascript"
+	},
+	"editor.formatOnSave": true
+}
