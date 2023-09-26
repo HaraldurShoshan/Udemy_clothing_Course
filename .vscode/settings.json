@@ -7,7 +7,6 @@
 	},
 	"javascript.validate.enable": true,
 	"editor.showUnused": true,
-	"prettier.singleQuote": true,
 	"workbench.tree.indent": 25,
 	"editor.matchBrackets": "never",
 	"workbench.editor.limit.enabled": true,
