@@ -1,29 +1,43 @@
+// {
+// 	"workbench.startupEditor": "newUntitledFile",
+// 	"workbench.iconTheme": "vscode-icons",
+// 	"workbench.colorCustomizations": {
+// 		"activityBar.activeBackground": "#476eaa",
+// 		"editor.foldBackground": "#355000"
+// 	},
+// 	"javascript.validate.enable": true,
+// 	"editor.showUnused": true,
+// 	"workbench.tree.indent": 25,
+// 	"editor.matchBrackets": "never",
+// 	"workbench.editor.limit.enabled": true,
+// 	"workbench.editor.limit.value": 8,
+// 	"editor.fontLigatures": true,
+// 	"editor.fontWeight": "400", // Regular
+// 	"workbench.editor.highlightModifiedTabs": true,
+// 	"editor.cursorBlinking": "smooth",
+// 	"editor.cursorSmoothCaretAnimation": "on",
+// 	"editor.mouseWheelZoom": true,
+// 	"terminal.integrated.fontSize": 10,
+// 	"terminal.integrated.cursorStyle": "line",
+// 	"editor.formatOnType": true,
+// 	"editor.defaultFormatter": "esbenp.prettier-vscode",
+// 	"prettier.configPath": ".prettierrc",
+// 	"files.associations": {
+// 		"*.jsx": "javascript"
+// 	},
+// 	"editor.formatOnSave": true
+// }
 {
-	"workbench.startupEditor": "newUntitledFile",
+	"workbench.colorTheme": "Snazzy Operator",
 	"workbench.iconTheme": "vscode-icons",
-	"workbench.colorCustomizations": {
-		"activityBar.activeBackground": "#476eaa",
-		"editor.foldBackground": "#355000"
-	},
-	"javascript.validate.enable": true,
-	"editor.showUnused": true,
-	"workbench.tree.indent": 25,
-	"editor.matchBrackets": "never",
-	"workbench.editor.limit.enabled": true,
-	"workbench.editor.limit.value": 8,
+	"editor.fontFamily": "Operator Mono Lig, Menlo, Monaco, 'Courier New', monospace",
 	"editor.fontLigatures": true,
-	"editor.fontWeight": "400", // Regular
-	"workbench.editor.highlightModifiedTabs": true,
-	"editor.cursorBlinking": "smooth",
-	"editor.cursorSmoothCaretAnimation": "on",
-	"editor.mouseWheelZoom": true,
-	"terminal.integrated.fontSize": 10,
-	"terminal.integrated.cursorStyle": "line",
-	"editor.formatOnType": true,
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
 	"prettier.configPath": ".prettierrc",
-	"files.associations": {
-		"*.jsx": "javascript"
-	},
-	"editor.formatOnSave": true
+	"editor.matchBrackets": "never",
+	"editor.formatOnSave": true,
+	"javascript.format.placeOpenBraceOnNewLineForFunctions": true,
+	"typescript.format.placeOpenBraceOnNewLineForFunctions": true,
+	"editor.fontVariations": false,
+	"editor.fontWeight": "100"
 }
